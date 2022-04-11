@@ -1,13 +1,15 @@
 .review-item{
-    border: 1px solid #95A0A7;
-    border-radius: 8px;
-    padding: 8px;
+    padding: 22px;
     margin-top: 21px;
     width: 571px;
     display: flex;
+    border-bottom: 1px solid lightgrey;
+    font-family: 'Poppins',
+    sans-serif;
 }
 .review-item img{
     width: 91px;
+    margin-right: 20px;
 }
 
 .review-item-details p{

@@ -1,3 +1,19 @@
 .review-items-container{
     margin: 0 auto;
 }
+.common{
+    border: none;
+    background-color: gold;
+    padding: 10px;
+    font-weight: 500;
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+.link{
+    text-decoration: none;
+    border: none;
+    background-color: gold;
+    padding: 10px;
+    font-weight: 500;
+    font-size: 18px;
+}
